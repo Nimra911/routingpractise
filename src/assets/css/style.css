@@ -1,0 +1,10 @@
+.list{
+    list-style: none;
+  }
+  .item
+  {
+    text-decoration: none;
+    display: inline-block;
+    font: 12px;
+    padding: 3px;
+  }
